@@ -1,0 +1,5 @@
+{
+  "name": "AI LaTeX Editor",
+  "description": "A feature-rich, component-based LaTeX editor with live preview, built with React.",
+  "requestFramePermissions": []
+}
